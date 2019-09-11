@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# opencv
+/opencv-3.3.1
+
+# jpg
+*.jpg
